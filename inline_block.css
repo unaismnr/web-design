@@ -1,0 +1,20 @@
+/* div {
+    display: inline;
+    background-color: green;
+}
+
+span {
+    background-color: red;
+} */
+
+div {
+
+    width: 500px;
+    height: 200px;
+    background-color: beige;
+    display: inline-block;
+}
+
+#div01 {
+    background-color: bisque;
+}

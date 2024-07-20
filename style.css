@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    padding-left: 10;
+    margin: 0;
+    color: white;
+}
+
+header {
+    padding-left: 50px;
+    background-color: blue;
+}
+
+div {
+    width: 500px;
+    height: 200px;
+    background-color: pink;
+    /* border: 4px dotted red; */
+    border-top: 4px solid red;
+}

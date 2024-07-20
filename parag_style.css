@@ -1,0 +1,27 @@
+h1,
+h2,
+h3 {
+    color: red;
+}
+
+#para-one {
+    color: green;
+}
+
+#para-two {
+    color: blue;
+}
+
+.common {
+    background-color: lightgreen;
+    color: white;
+    padding: 20;
+}
+
+#section1 h1 {
+    color: purple;
+}
+
+#section2 h2 {
+    color: rosybrown;
+}
